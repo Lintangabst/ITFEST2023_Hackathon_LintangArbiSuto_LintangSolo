@@ -1,4 +1,4 @@
-**ITFEST HACKATHON**
+**ITFEST HACKATHON 2023**
 
 MOOD ( Math Operations Online and Development )
 Nama : Lintang Arbi Suto
